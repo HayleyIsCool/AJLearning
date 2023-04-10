@@ -8,7 +8,7 @@ import edu.wpi.first.wpilibj.RobotBase;
 
 public final class Main {
   private Main() {
-    System.out.println("hi guys");
+    System.out.println("hola guys");
   }
 
   public static void main(String... args) {
